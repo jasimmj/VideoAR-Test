@@ -1,2 +1,3 @@
 AR4 filter=lfs diff=lfs merge=lfs -text
 AR4.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
